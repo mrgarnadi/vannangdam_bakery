@@ -34,7 +34,7 @@ if(isset($_SESSION['kd_cs'])){
 
 
 				<div class="col-md-4"  style="padding: 20px;">
-					<span>nenen tegar gede</span>
+					<span>2023</span>
 				</div>
 			</center>
 		</div>
@@ -56,8 +56,8 @@ if(isset($_SESSION['kd_cs'])){
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="background-color: white;">
 				<ul class="nav navbar-nav navbar-right">
 					<li><a href="index.php">Home</a></li>
-					<li><a href="produk.php">Produk</a></li>
-					<li><a href="about.php">Tentang Kami</a></li>
+					<li><a href="http://localhost/vannangdam/produk.php" style="color: #000">Produk</a></p></li>
+					<li><a href="http://localhost/vannangdam/about.php" style="color: #000">Tentang Kami</a></li>
 					<li><a href="manual.php">Manual Aplikasi</a></li>
 					<?php 
 					if(isset($_SESSION['kd_cs'])){
@@ -81,7 +81,7 @@ if(isset($_SESSION['kd_cs'])){
 						<li class="dropdown">
 							<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="glyphicon glyphicon-user"></i> Akun <span class="caret"></span></a>
 							<ul class="dropdown-menu">
-								<li><a href="user_login.php">login</a></li>
+								<li><a href="user_login.php">Login</a></li>
 								<li><a href="register.php">Register</a></li>
 							</ul>
 						</li>

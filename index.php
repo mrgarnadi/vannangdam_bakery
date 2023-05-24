@@ -17,7 +17,7 @@ include 'header.php';
 		<h4 class="text-center" style="font-family: arial; padding-top: 10px; padding-bottom: 10px; font-style: italic; line-height: 29px; border-top: 2px solid #000000; border-bottom: 2px solid #000000;">Selamat datang di Vannangdam Bakery - Memanjakan lidah Anda dengan cita rasa roti yang tak normal.</h4>
 
 
-	<h2 style=" width: 100%; border-bottom: 4px solid #000000; margin-top: 80px;"><b>Best Seller</b></h2>
+	<h2 style=" width: 100%; border-bottom: 4px solid #000000; margin-top: 80px;"><b>Top Menu</b></h2>
 
 	<div class="row">
 		<?php 
