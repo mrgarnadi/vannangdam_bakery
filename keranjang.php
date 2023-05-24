@@ -44,7 +44,7 @@ if(isset($_POST['submit1'])){
 					<thead>
 						<tr>
 							<th scope="col">No</th>
-							<th scope="col">Image</th>
+							<th scope="col">Foto</th>
 							<th scope="col">Nama</th>
 							<th scope="col">Harga</th>
 							<th scope="col">Qty</th>
