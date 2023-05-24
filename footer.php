@@ -3,7 +3,7 @@
 			<div class="row">
 				<div class="col-md-4">
 					<h3 style="color: #000"><b>VANNANGDAM-CAKE BAKERY</b></h3>
-					<p>Jl. ARTINYA APA BANG MESSI </p>
+					<p>Jl. Cikutra No.19 </p>
 					<p><i class="glyphicon glyphicon-earphone"></i> +628343462151</p>
 					<p><i class="glyphicon glyphicon-envelope"></i> vannangdam.bakery@gmail.com</p>
 				</div>
@@ -11,7 +11,7 @@
   					<h5><b>Menu</b></h5>
 					<p><a href="http://localhost/vannangdam/produk.php" style="color: #000">Produk</a></p>
 					<p><a href="http://localhost/vannangdam/about.php" style="color: #000">Tentang Kami</a></p>
-  					<p><a href="https://www.instagram.com/pdiperjuangan/" style="color: #000">Hubungi Kami</a></p>
+  					<p><a href="https://www.instagram.com//" style="color: #000">Hubungi Kami</a></p>
 				</div>
 
 
