@@ -14,14 +14,14 @@ include 'header.php';
 			<div class="panel panel-default">
 				<a data-toggle="collapse" data-parent="#accordion" href="#collapseOne" style="color:#000;">
 				<div class="panel-heading" style="background-color: #eee;">
-					<h4 class="panel-title">
+					<h4 class="panel-title" style="font-size: 20px;">
 						Bagaimana Cara Berbelanja di Vannangdam Bakery ?
 					</h4>
 				</div>
 				</a>
 				<div id="collapseOne" class="panel-collapse collapse in">
 					<div class="panel-body">
-						<ol>
+						<ol style="font-size: 20px;">
 							<li>Pastikan Kalian sudah Daftar/Register dulu yaa!</li>
 							<li>Pilih Produk yang ingin dibeli</li>
 							<li>Lakukan Checkout pesanan anda</li>
