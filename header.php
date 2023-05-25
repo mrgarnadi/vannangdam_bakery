@@ -55,10 +55,11 @@ if(isset($_SESSION['kd_cs'])){
 
 			<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1" style="background-color: white;">
 				<ul class="nav navbar-nav navbar-right">
-					<li><a href="index.php">Home</a></li>
-					<li><a href="http://localhost/vannangdam/produk.php" style="color: #000">Produk</a></p></li>
-					<li><a href="http://localhost/vannangdam/about.php" style="color: #000">Tentang Kami</a></li>
-					<li><a href="manual.php">Manual Aplikasi</a></li>
+					<li><a href="index.php" style="font-size: 16px;">Home</a></li>
+					<li><a href="http://localhost/vannangdam/produk.php" style="color: #000; font-size: 16px;">Produk</a></li>
+					<li><a href="http://localhost/vannangdam/about.php" style="color: #000; font-size: 16px;">Tentang Kami</a></li>
+					<li><a href="manual.php" style="font-size: 16px;">Manual Aplikasi</a></li>
+				</ul>
 					<?php 
 					if(isset($_SESSION['kd_cs'])){
 					$kode_cs = $_SESSION['kd_cs'];
