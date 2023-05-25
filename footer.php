@@ -1,4 +1,4 @@
-	<footer style="border-top: 4px solid #ff8680;  ">
+	<footer style="border-top: 4px solid #000;  ">
 		<div class="container" style="padding-bottom: 50px;">
 			<div class="row">
 				<div class="col-md-4">
@@ -12,19 +12,14 @@
 					<p><a href="http://localhost/vannangdam/produk.php" style="color: #000">Produk</a></p>
 					<p><a href="http://localhost/vannangdam/about.php" style="color: #000">Tentang Kami</a></p>
   					<p><a href="https://www.instagram.com//" style="color: #000">Hubungi Kami</a></p>
-				</div>
-
-
-
-				<div class="col-md-4">
-
+				</div>	
 				</div>
 			</div>
 
 		</div>
 
 		<footer>
-    	<div class="copy" style="background: #000000; padding: 50px; color: #fff; text-align: center; position: relative; margin-top: 50px;">
+    	<div class="copy" style="background: #000000; padding: 34px; color: #fff; text-align: center; position: relative; margin-top: 50px;">
         	<span>Copyright&copy; dadangwalker</span>
     	</div>
 	</footer>
