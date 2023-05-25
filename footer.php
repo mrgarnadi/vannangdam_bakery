@@ -11,7 +11,7 @@
   					<h5><b>Menu</b></h5>
 					<p><a href="http://localhost/vannangdam/produk.php" style="color: #000">Produk</a></p>
 					<p><a href="http://localhost/vannangdam/about.php" style="color: #000">Tentang Kami</a></p>
-  					<p><a href="https://www.instagram.com//" style="color: #000">Hubungi Kami</a></p>
+  					<p><a href="https://api.whatsapp.com/send?phone=089663288705" style="color: #000">Hubungi Kami</a></p>
 				</div>	
 				</div>
 			</div>
