@@ -82,7 +82,7 @@ $t_cs = mysqli_fetch_assoc($cs);
 							}
 							?>
 						</td>
-						<td>2020/26-01</td>
+						<td>2023/26-01</td>
 						<td>
 							<?php if( $row['tolak']==0 && $row['cek']==1 && $row['terima']==0){ ?>
 								<a href="inventory.php?cek=0" id="rq" class="btn btn-warning"><i class="glyphicon glyphicon-warning-sign"></i> Request Material </a> 
